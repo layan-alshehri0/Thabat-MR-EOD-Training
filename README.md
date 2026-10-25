@@ -41,3 +41,13 @@ Developed during Defensathon 2026, THABAT demonstrates the potential of combinin
 - **Performance-Based Feedback:** Contextual feedback based on accuracy, stability, and task completion.
 - **Training Performance Reports:** Summaries of completion time, scores, warnings, and danger events.
 
+## System Architecture
+
+THABAT combines wearable sensing, performance evaluation, and an immersive Unity-based training environment.
+
+<div align="center">
+  <img src="thabat-system-architecture.svg" alt="THABAT System Architecture" width="850">
+</div>
+
+
+
