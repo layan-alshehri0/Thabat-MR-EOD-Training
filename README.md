@@ -40,3 +40,4 @@ Developed during Defensathon 2026, THABAT demonstrates the potential of combinin
 - **Progressive Training Levels:** Three scenarios with increasing difficulty and time pressure.
 - **Performance-Based Feedback:** Contextual feedback based on accuracy, stability, and task completion.
 - **Training Performance Reports:** Summaries of completion time, scores, warnings, and danger events.
+
