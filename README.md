@@ -51,3 +51,18 @@ THABAT combines wearable sensing, performance evaluation, and an immersive Unity
 
 
 
+---
+
+## Technology Stack
+
+| Category | Technologies |
+|---|---|
+| Game Engine | Unity |
+| Programming Language | C# |
+| Extended Reality | Unity XR Interaction Toolkit, XR Hands |
+| Wearable Hardware | Sensor-equipped smart glove |
+| Performance Evaluation | Rule-based movement and stability assessment |
+| Monitoring | Color-coded training dashboard |
+| Visualization | Mixed reality training environment |
+
+
